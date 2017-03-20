@@ -1,0 +1,5 @@
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\bin\Debug\Services.dll
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\bin\Debug\Services.pdb
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\obj\Debug\Services.dll
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\obj\Debug\Services.pdb

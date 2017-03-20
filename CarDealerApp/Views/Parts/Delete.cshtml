@@ -1,0 +1,22 @@
+﻿@model CarDealer.Models.ViewModels.DeletePartViewModel
+
+@{ 
+    ViewBag.Title = "Delete";
+}
+
+
+<h2>Delete part</h2>
+<br />
+<h4>@Html.DisplayNameFor(m => m.Name): @Html.DisplayFor(m=>m.Name)</h4>
+<h4>@Html.DisplayNameFor(m => m.Price): @Html.DisplayFor(m=>m.Price)</h4>
+
+@using (Html.BeginForm())
+{
+    <input type="number" hidden="hidden" name="PartId" value="@Html.DisplayFor(model=>model.Id)" />
+    <div class="form-group">
+        <input class="btn btn-danger" type="submit" value="Delete" />
+        @*@Html.ActionLink("Delete", "Delete", "Parts", new { id = @Html.DisplayFor(model => model.Id) },
+            new { onclick = "return confirm('Do you really want to delete the " + @Html.DisplayFor(model => model.Name) + "?')" })*@
+    </div>
+}
+    

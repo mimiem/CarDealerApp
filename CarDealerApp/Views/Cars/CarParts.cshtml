@@ -1,0 +1,31 @@
+﻿@model CarDealer.Models.ViewModels.CarPartsViewModel
+
+<h3>@Html.DisplayFor(model => model.Car.Make)</h3>
+<h4>@Html.Label("Model") : @Html.DisplayFor(model => model.Car.Model)</h4>
+<h4>@Html.Label("Travelled Distance") : @Html.DisplayFor(model => model.Car.TravelledDistance)</h4>
+<h3>@Html.Label("Parts") :</h3>
+
+<table class="table-striped table">
+    <tr>
+        <th>
+            @Html.Label("Name")
+        </th>
+        <th>
+            @Html.Label("Price")
+        </th>
+    </tr>
+
+    @foreach (var item in Model.Parts)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            
+        </tr>
+    }
+
+</table>

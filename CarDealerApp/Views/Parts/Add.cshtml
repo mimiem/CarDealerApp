@@ -1,0 +1,21 @@
+﻿<h2>Add Part</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        @Html.Label("Name:")
+        <input type="text" id="name" name="name" />
+    </div>
+    <div class="form-group">
+        @Html.Label("Price:") 
+        <input type="number" step="0.1" id="price" name="price" />
+    </div>
+    <div class="form-group">
+        @Html.Label("Supplier:")
+        <input type="text" id="supplier" name="supplier" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Submit" />
+    </div>
+}
+    

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<CarDealer.Models.ViewModels.SaleViewModel>
+
+<h2>All sales</h2>
+<br />
+<p>
+    @Html.ActionLink("Add sale", "Add", "Sales")
+</p>
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.Label("Car")
+        </th>
+        <th>
+            @Html.Label("Sold to")
+        </th>
+        <th>
+            @Html.DisplayNameFor(item => item.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(item => item.Discount)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Car.Make) - @Html.DisplayFor(modelItem => item.Car.Model)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Customer.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Discount)
+        </td>
+    </tr>
+}
+
+</table>

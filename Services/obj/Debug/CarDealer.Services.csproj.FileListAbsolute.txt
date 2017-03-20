@@ -1,0 +1,14 @@
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\bin\Debug\Services.dll.config
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\bin\Debug\Services.dll
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\bin\Debug\Services.pdb
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\bin\Debug\CarDealer.Data.dll
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\bin\Debug\CarDealer.Models.dll
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\bin\Debug\EntityFramework.dll
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\bin\Debug\CarDealer.Data.pdb
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\bin\Debug\CarDealer.Models.pdb
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\bin\Debug\EntityFramework.xml
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\obj\Debug\CarDealer.Services.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\obj\Debug\Services.dll
+C:\Users\User1\Desktop\ASP.Net_MVC\2. CSharp-Frameworks-ASPNET-Essentials-Exercises\CarDealerApp-Skeleton\Services\obj\Debug\Services.pdb

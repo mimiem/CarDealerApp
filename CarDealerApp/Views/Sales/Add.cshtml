@@ -1,0 +1,24 @@
+﻿<h2>Add Sale</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        @Html.Label("Customer:")
+        <input type="text" id="customer" name="customer" />
+    </div>
+    <div class="form-group">
+        @Html.Label("Car make:") 
+        <input type="text" id="carMake" name="carMake" />
+    </div>
+    <div class="form-group">
+        @Html.Label("Car model:")
+        <input type="text" id="carModel" name="carModel" />
+    </div>
+    <div class="form-group">
+        @Html.Label("Discount:")
+        <input type="number" step="0.1" id="discount" name="discount" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Submit" />
+    </div>
+}
